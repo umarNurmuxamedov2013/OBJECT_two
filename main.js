@@ -8,4 +8,3 @@ const a = {
 for (const key in a) {
     console.log(a[key]);
 }
-
